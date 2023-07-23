@@ -1,0 +1,45 @@
+.forms {
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    padding: 30px;
+    margin: 50px;
+    display: inline-block;
+    border: 2px solid rgb(230, 229, 229);
+}
+
+h1 {
+    margin: 50px;
+    margin-top: 0px;
+    background-color: rgb(191, 128, 250);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-family: Roboto, Arial;
+    display: block;
+    padding: 50px;
+    width: fit-content;
+}
+
+span {
+    color: red;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(232, 253, 253);
+    display: flex;
+}
+
+button {
+    width: 70px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: rgb(41, 97, 240);
+    color: aliceblue;
+    border: none;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+}

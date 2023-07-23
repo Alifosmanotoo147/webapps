@@ -1,0 +1,40 @@
+.header-section {
+    background-color: blueviolet;
+    height: 70px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.leftsection {
+    margin-left: 30px;
+    color: aliceblue;
+}
+
+.leftsection span {
+    color: red;
+    font-size: 50px;
+}
+
+.rightsection {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.logsign {
+    display: flex;
+    flex-direction: column;
+    border-left: 2px solid;
+    padding: 3px;
+    margin-left: 5px;
+}
+
+.logsign a {
+    color: aliceblue;
+}
